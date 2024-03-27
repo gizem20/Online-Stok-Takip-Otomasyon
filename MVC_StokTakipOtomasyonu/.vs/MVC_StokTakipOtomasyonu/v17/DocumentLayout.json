@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\MVC_StokTakipOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2D646C-6EC9-4C80-B4F2-4C37259A0D49}|MVC_StokTakipOtomasyonu.csproj|c:\\users\\gizem\\source\\repos\\mvc_stoktakipotomasyonu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2D646C-6EC9-4C80-B4F2-4C37259A0D49}|MVC_StokTakipOtomasyonu.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_StokTakipOtomasyonu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_StokTakipOtomasyonu\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:30:06.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
